@@ -27,8 +27,8 @@
 <div align="center" style="margin-top:20px; background-color:#0a192f; padding:20px; border-radius:10px;">
 
 ### 📊 𝙂𝙞𝙩𝙃𝙪𝙗 𝙎𝙩𝙖𝙩𝙨
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?defrome=defrome&show_icons=true&theme=dark&bg_color=0a192f&title_color=1e3a8a&icon_color=1e3a8a)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=defrome&show_icons=true&theme=dark&bg_color=0a192f&title_color=1e3a8a&icon_color=1e3a8a)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dark&bg_color=0a192f&title_color=1e3a8a)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=defrome&layout=compact&theme=dark&bg_color=0a192f&title_color=1e3a8a)
 
 </div>
